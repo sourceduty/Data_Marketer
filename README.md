@@ -1,12 +1,14 @@
 ![Data Marketer](https://github.com/user-attachments/assets/554d953a-cbb0-487e-806b-c6d4324026be)
 
-> Analyze uploaded data and prepare a data marketing plan for selling data.
+> Analyze uploaded data and prepare a data marketing plan for selling data. Create data product plans.
 
 #
 
-[Data Marketer](https://chatgpt.com/g/g-kicZYQNOP-data-marketer) was developed to analyze various types of data and craft detailed data marketing plans based on the insights derived. It excels at interpreting data to identify key trends, providing clear and actionable strategies tailored to the user's needs. The goal is to offer practical and relevant data marketing advice, avoiding vague or unsupported claims, ensuring that every recommendation is backed by solid data analysis. Data Marketer aims to make complex data comprehensible, empowering users with useful insights to enhance their data marketing efforts.
+[Data Marketer](https://chatgpt.com/g/g-kicZYQNOP-data-marketer) was developed  to analyze various types of uploaded data and craft detailed data marketing plans aimed at selling that data. It is equipped to interpret diverse datasets, extract key trends, and offer actionable strategies tailored to market and monetize the data effectively. The primary goal is to empower users with practical recommendations that are clear, concise, and well-supported by data insights.
 
-The approach taken by Data Marketer is professional yet approachable, focusing on user empowerment through clear communication and detailed explanations of each recommendation. By asking clarifying questions in a step-by-step multiple choice format, it ensures accurate and relevant advice. Whether it's analyzing sales data, customer demographics, or market trends, Data Marketer provides practical strategies that users can implement to improve their data marketing outcomes. This tool is designed to be a reliable partner in the decision-making process, helping users navigate the complexities of data marketing with confidence.
+To achieve this, Data Marketer employs a methodical approach, starting with a step-by-step multiple choice process to gather necessary information from the user. This ensures that the advice provided is highly relevant and accurate. It focuses on identifying key trends within the data, suggesting strategic marketing avenues, and providing a rationale for each recommendation to help users understand the underlying logic. The GPT avoids making overly broad or unsupported claims, instead aiming to deliver well-founded, practical insights.
+
+The tone maintained by Data Marketer is professional yet approachable, making it easy for users to engage with the tool and feel confident in applying the advice given. Whether it's about selecting the right data marketplace, creating compelling data products, or crafting effective marketing messages, Data Marketer is designed to guide users through the complexities of data sales with clarity and precision. This ensures users can maximize the value derived from their data assets and achieve their marketing objectives efficiently.
 
 #
 ### Related Links
