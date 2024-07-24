@@ -1,6 +1,6 @@
 ![Data Marketer](https://github.com/user-attachments/assets/554d953a-cbb0-487e-806b-c6d4324026be)
 
-> Analyze uploaded data and prepare a data marketing plan.
+> Analyze uploaded data and prepare a data marketing plan for selling data.
 
 #
 
